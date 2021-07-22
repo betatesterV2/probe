@@ -1,1 +1,1 @@
-https://betatesterv2.github.io/probe/index
+https://betatesterv2.github.io/probe/
