@@ -1,1 +1,1 @@
-https://betatesterv2.github.io/probe/cv
+https://betatesterv2.github.io/probe/index
