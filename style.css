@@ -1,0 +1,16 @@
+img {
+   width: 10%; /* Ширина */
+   float: center; /* Выстраиваем элементы по горизонтали */
+   margin: 0 2% 2% 5%; /* Отступ слева */
+   background: #e7e1e1ca; /* Цвет фона */
+   border-radius: 5px; /* Радиус скругления */
+   padding: 2%; /* Поля */
+   }
+header {
+   text-align: center;
+}
+.container {
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
