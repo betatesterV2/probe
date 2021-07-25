@@ -1,15 +1,15 @@
 img {
-   width: 10%; /* Ширина */
-   float: center; /* Выстраиваем элементы по горизонтали */
-   margin: 1% 0% 0% 0%; /* Отступ слева */
-   background: #e7e1e1ca; /* Цвет фона */
-   border-radius: 50px; /* Радиус скругления */
-   padding: 2%; /* Поля */
+   width: 10%;
+   float: left;
+   margin: 1% 100% 0% 0%;
+   background: #e7e1e1ca;
+   border-radius: 50px;
+   padding: 2%;
    }
 .container {
    margin-left: auto;
    margin-right: auto;
-   width: 50%;
+   width: 45%;
    background: #c2d5d6ca;
    text-align: center;
    margin-bottom: 0%;
@@ -18,9 +18,13 @@ img {
 .container2 {
    margin-left: auto;
    margin-right: auto;
-   width: 50%;
+   width: 45%;
    background: #f2ffd8ca;
 }
 body {
    background: #d6cbd6ca;
+}
+figcaption {
+   font-size: 70%;
+   font-style: italic;
 }
